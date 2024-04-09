@@ -1,3 +1,4 @@
 .obsidian/workspace
 .obsidian/workspace.json
-.obsidian/plugins/**
+.obsidian/plugins/**/*js
+.obsidian/plugins/**/*.css
