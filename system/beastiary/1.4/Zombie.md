@@ -1,6 +1,6 @@
 ---
 tags:
-  - Monster
+  - System/Monster
 ---
 ```statblock
 monster: Zombie

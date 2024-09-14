@@ -1,0 +1,3 @@
+- [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/)
+- [PHD 20](https://phd20.com)
+- 
