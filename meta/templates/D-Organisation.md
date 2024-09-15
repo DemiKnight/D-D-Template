@@ -1,6 +1,6 @@
 ---
 tags:
-  - Organisation
+  - Lore/Organisation
 ---
 **Formed**: `Ex xxxx`
 **Disbanded**: `Ex xxxx`

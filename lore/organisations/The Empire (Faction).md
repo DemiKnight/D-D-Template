@@ -1,12 +1,11 @@
 ---
 tags:
-  - Organisation
+  - Lore/Organisation
 ---
 **Formed**: `Ex xxxx`
 **Disbanded**: `Ex xxxx`
 # NPCs
 **Leader**: 
-
 **Members**
 
 | Name | Note |

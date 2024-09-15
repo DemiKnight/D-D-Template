@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0bcd72f61f6732a2","x":-1140,"y":-300,"width":1040,"height":284,"color":"4","type":"group","label":"Act 1"},
+		{"id":"bacf334cec9704b7","type":"file","file":"campaign/Act 1/plots/Plot A (Plot).md","x":-1120,"y":-86,"width":400,"height":50},
+		{"id":"5368ff12fbe08bee","type":"file","file":"campaign/Act 1/plots/Plot B (Plot).md","x":-520,"y":-280,"width":400,"height":50},
+		{"id":"17d039c861627f19","x":440,"y":-86,"width":400,"height":50,"type":"file","file":"campaign/plots/Overworld Plot A (Plot).md"}
+	],
+	"edges":[
+		{"id":"5abfe4e664c6f63d","fromNode":"bacf334cec9704b7","fromSide":"right","toNode":"5368ff12fbe08bee","toSide":"left","label":"Continues onto"},
+		{"id":"2f865d66d92f3160","fromNode":"bacf334cec9704b7","fromSide":"right","toNode":"17d039c861627f19","toSide":"left","label":"Detail A"},
+		{"id":"366a96a7c9fce5ab","fromNode":"5368ff12fbe08bee","fromSide":"right","toNode":"17d039c861627f19","toSide":"left","label":"Detail B"}
+	]
+}

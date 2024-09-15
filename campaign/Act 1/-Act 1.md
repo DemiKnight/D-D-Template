@@ -1,4 +1,3 @@
-**Previous Campaign**: ???
 ## Story Overview
 ...
 ## Adventure Summary
